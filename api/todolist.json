@@ -1,0 +1,20 @@
+{
+    "todolist": [
+      {
+        "Isdone" :true,
+        "Task" : "writing sample json file ",
+        "Priority" : "high"
+       },
+       {
+        "Isdone" :false,
+        "Task" : "make necessary models",
+        "Priority" : "high"
+       },
+       {
+        "Isdone" :false,
+        "Task" : "make a collection ",
+        "Priority" : "high"
+       }
+    ]
+    
+  }
