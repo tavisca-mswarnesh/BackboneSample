@@ -1,8 +1,8 @@
-.todorow{
+.todorow {
   display: flex;
   padding: 5px;
 }
-.todocoloum{
+.todocoloum {
   flex: 1;
   padding: 0px 5px;
 }
@@ -12,39 +12,38 @@
   -moz-box-shadow: 20px -7px 94px -35px rgba(0, 0, 0, 1);
   box-shadow: 20px -7px 94px -35px rgba(0, 0, 0, 1);
   border: 2px solid black;
-  margin:  auto;
+  margin: auto;
   width: auto;
   height: auto;
   min-height: 250px;
 }
 
-.delete{
+.delete {
   cursor: pointer;
 }
 .SDkEP {
-  
   margin: 5%;
   border-radius: 50px;
   border: 2px solid #000000;
   padding: 5px 4px 0 16px;
   padding-left: 14px;
+}
+.Add-Button {
+  margin: 5%;
 
-}
-.Add-Button{
-  margin: 5%;
-  
   padding: 5px 4px 0 16px;
   padding-left: 14px;
 }
-.todo-priority{
+.todo-priority {
   margin: 5%;
-  
+
   padding: 5px 4px 0 16px;
   padding-left: 14px;
 }
-span{
+span {
   padding-left: 10%;
 }
-.disable-label{
+.disable-label {
   text-decoration: line-through;
+  opacity: 0.7;
 }
