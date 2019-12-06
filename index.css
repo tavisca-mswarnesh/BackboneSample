@@ -1,9 +1,14 @@
 .todorow {
   display: flex;
-  padding: 5px;
+  padding: 7px;
+  border: 2px solid white;
+  -webkit-box-shadow: -2px -2px 20px -5px rgba(0, 0, 0, 0.11);
+  -moz-box-shadow: -2px -2px 20px -5px rgba(0, 0, 0, 0.11);
+  box-shadow: -2px -2px 20px -5px rgba(0, 0, 0, 0.11);
 }
 .todocoloum {
   flex: 1;
+  text-align: center;
   padding: 0px 5px;
 }
 
@@ -13,7 +18,7 @@
   box-shadow: 20px -7px 94px -35px rgba(0, 0, 0, 1);
   border: 2px solid black;
   margin: auto;
-  width: auto;
+  width: 65%;
   height: auto;
   min-height: 250px;
 }
